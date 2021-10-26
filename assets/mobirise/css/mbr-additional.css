@@ -159,14 +159,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #372fa3;
-  border-color: #372fa3;
+  background-color: #5CE1E6;
+  border-color: #5CE1E6;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #372fa3 !important;
-  border-color: #372fa3 !important;
+  background-color: #5CE1E6 !important;
+  border-color: #5CE1E6 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -179,14 +179,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #372fa3;
-  border-color: #372fa3;
+  background-color: #5CE1E6;
+  border-color: #5CE1E6;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #372fa3 !important;
-  border-color: #372fa3 !important;
+  background-color: #5CE1E6 !important;
+  border-color: #5CE1E6 !important;
 }
 .btn-info,
 .btn-info:active {

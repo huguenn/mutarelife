@@ -168,7 +168,7 @@ body {
 .btn-primary-nav.active {
   color: #ffffff;
   background-color: #5CE1E6;
-  border-color: #372fa3;
+  border-color: #5CE1E6;
 }
 
 .btn-primary:hover,
@@ -176,7 +176,8 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #5CE1E6;
+  background-color: 372fa3;
+;
   border-color: #372fa3;
 }
 .btn-primary.disabled,
